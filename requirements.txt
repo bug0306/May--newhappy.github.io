@@ -1,4 +1,1 @@
 requests
-smtplib
-email
-logging
