@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=350, initial-scale=1.0, maximum-scale=1.0, user-scalable=1.0, user-scalable=no;" />
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate">
+<META HTTP-EQUIV="expires" CONTENT="Wed, 26 Feb 2007 08:21:57 GMT">
+<title>郑州大学数据中台2020</title>
+<link rel="stylesheet" type="text/css" href="https://jksb.v.zzu.edu.cn/imagesss/_xwss_2017.css" /><style>
+#bak_0 {MARGIN:0 auto; left: 0;WIDTH: 350px; min-HEIGHT:540px;}
+
+</style>
+<script Language="javascript">
+  function zzjCallOneUrl(us){
+    document.getElementById("zzj_fun_426s").src=us;
+  }
+  
+</script>
+</head>
+<body>
+<form method="POST" name="myform52" action="">
+<div id="bak_0">  
+  <div style="width:100%;height:8px;"></div><div style="width:100%;height:25px;line-height:25px;font-size:14px;color:#bb0000;"><div style="width:6px;height:100%;float:left;"></div><div style="width:342px;height:100%;float:left;font-size:14px;color:#bb0000;">每日健康状况打卡<span style="font-size:12px;color:#333">（系统依据你的测温记录自动填写）</span></div><div style="width:2px;height:100%;float:right;"></div></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div>
+  <div style="width:100%;height:5px;"></div><div style="width:100%;height:25px;line-height:25px;font-size:14px;color:#a03495">填报人学号：<span style="color:#00f">201878040316</span>　姓名：<span style="color:#00f">李万波</span></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div><div style="width:100%;min-height:25px;line-height:25px;font-size:14px;color:#a03495">1. 您今天是否有发热症状?　<span style="color:#888">是　</span><span style="color:#00f">否<img src="https://jksb.v.zzu.edu.cn/imagesss/ok2020.png" style="width:16px;height:16px;border 0px;vertical-align:middle;" />　</span><br />
+2. 您今天是否有咳嗽症状?　<span style="color:#888">是　</span><span style="color:#00f">否<img src="https://jksb.v.zzu.edu.cn/imagesss/ok2020.png" style="width:16px;height:16px;border 0px;vertical-align:middle;" />　</span><br />
+3. 您今天是否有乏力或轻微乏力症状?<br />　<span style="color:#888">是　</span><span style="color:#00f">否<img src="https://jksb.v.zzu.edu.cn/imagesss/ok2020.png" style="width:16px;height:16px;border 0px;vertical-align:middle;" />　</span><br />
+4. 您今天是否有鼻塞、流涕、咽痛或腹泻等症状?<br />　<span style="color:#888">是　</span><span style="color:#00f">否<img src="https://jksb.v.zzu.edu.cn/imagesss/ok2020.png" style="width:16px;height:16px;border 0px;vertical-align:middle;" />　</span><br />
+5. 当前居住地：<br /><span style="font-size:12px;color:#888">(城镇精确到具体小区、楼栋和门牌号；农村精确到村委会)</span><br /><span style="color:#00e">河南省.郑州市</span><br /><input type="text" name="myvsw_13c" size="46" value="河南省.郑州市金水区文化路街道97号" readonly /><br />6. 您是否为当日返郑人员?　<span style="color:#888">是　</span><span style="color:#00f">否<img src="https://jksb.v.zzu.edu.cn/imagesss/ok2020.png" style="width:16px;height:16px;border 0px;vertical-align:middle;" />　</span><br />
+<input type="text" name="myvsw_14b" size="46" value="" readonly /><br /></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div><div style="width:100%;min-height:20px;line-height:20px;font-size:14px;">今日自动测温记录：<br /><table><tr><td>时间</td><td>测温地点</td><td>体温</td></tr><tr><td>09:48:35　</td><td>北区2号公寓_门1　</td><td><span style="color:#080">36.6℃<span></td></tr></table></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div>
+<div style="width:100%;height:32px;"><div style="width:154px;height:100%;float:left;"></div><div style="width:80px;height:100%;float:left;line-height:32px;font-family:黑体;background-image:url(/images/btn/redq80.png);text-align:center;" onclick="window.location='https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/jksb?ptopid=s56404162F5BE4884B16536ACC9FCA03A&sid=201208191718239201&door='"><span style="font-size:14px;color:#b50000;">上一步</span></div><div style="width:3px;height:100%;float:left;"></div><div style="width:80px;height:100%;float:left;line-height:32px;font-family:黑体;background-image:url(/images/btn/greenq80.png);text-align:center;" onclick="window.location='https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/jksb?ptopid=s56404162F5BE4884B16536ACC9FCA03A&sid=201208191718239201&door='"><span style="font-size:14px;color:#004a02;">确认</span></div><div style="width:1px;height:100%;float:right;"></div></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div>  
+  
+</div>
+
+<div style="width:1px;height:1px;">
+  <iframe name="zzj_fun_426" id="zzj_fun_426s" src="https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/getsomething?ptopid=s56404162F5BE4884B16536ACC9FCA03A&sid=201208191718317750" marginwidth="0" marginheight="0" height="100%"
+    width="100%" scrolling="no" border="0" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<input type="hidden" name="ptopid" value="s56404162F5BE4884B16536ACC9FCA03A"><input type="hidden" name="sid" value="201208191718317779"></form>
+
+<div style="width:100%;height:50px;"></div>
+</body>
+</html>

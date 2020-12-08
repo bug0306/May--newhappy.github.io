@@ -1,0 +1,18 @@
+DEBUG 2020.12.08. 19:03:36 [connectionpool.py:823] Starting new HTTPS connection (1): jksb.v.zzu.edu.cn:443
+DEBUG 2020.12.08. 19:03:37 [connectionpool.py:393] https://jksb.v.zzu.edu.cn:443 "GET /vls6sss/zzujksb.dll/first0 HTTP/1.1" 200 3967
+DEBUG 2020.12.08. 19:03:37 [Service.py:38] Successfully parsed the infopageurl.
+DEBUG 2020.12.08. 19:03:37 [connectionpool.py:823] Starting new HTTPS connection (1): jksb.v.zzu.edu.cn:443
+DEBUG 2020.12.08. 19:03:37 [connectionpool.py:393] https://jksb.v.zzu.edu.cn:443 "POST /vls6sss/zzujksb.dll/login HTTP/1.1" 200 552
+INFO 2020.12.08. 19:03:37 [Service.py:56] Successfully login in.
+DEBUG 2020.12.08. 19:03:37 [connectionpool.py:823] Starting new HTTPS connection (1): jksb.v.zzu.edu.cn:443
+DEBUG 2020.12.08. 19:03:38 [connectionpool.py:393] https://jksb.v.zzu.edu.cn:443 "GET /vls6sss/zzujksb.dll/first6?ptopid=s56404162F5BE4884B16536ACC9FCA03A&sid=201208191716364248 HTTP/1.1" 200 2778
+DEBUG 2020.12.08. 19:03:38 [connectionpool.py:823] Starting new HTTPS connection (1): jksb.v.zzu.edu.cn:443
+DEBUG 2020.12.08. 19:03:39 [connectionpool.py:393] https://jksb.v.zzu.edu.cn:443 "GET /vls6sss/zzujksb.dll/jksb?ptopid=s56404162F5BE4884B16536ACC9FCA03A&sid=201208191716879246&fun2= HTTP/1.1" 200 7899
+INFO 2020.12.08. 19:03:39 [Service.py:127] Success to find inner confirmPage url.
+DEBUG 2020.12.08. 19:03:39 [connectionpool.py:823] Starting new HTTPS connection (1): jksb.v.zzu.edu.cn:443
+DEBUG 2020.12.08. 19:03:39 [connectionpool.py:393] https://jksb.v.zzu.edu.cn:443 "POST /vls6sss/zzujksb.dll/jksb HTTP/1.1" 200 5558
+INFO 2020.12.08. 19:03:39 [Service.py:155] Success send data to okPage and go to the end page.
+INFO 2020.12.08. 19:03:39 [Service.py:174] You have already clocked in.
+INFO 2020.12.08. 19:03:39 [Service.py:70] You have already clocked.
+INFO 2020.12.08. 19:03:39 [Main.py:34] Success to finish clocking in.
+INFO 2020.12.08. 19:03:41 [Main.py:20] Success send logs to QQ mail.
