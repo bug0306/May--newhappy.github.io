@@ -3,4 +3,4 @@
 set -eux
 
 
-python main.py
+python Main.py
